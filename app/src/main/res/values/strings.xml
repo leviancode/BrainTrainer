@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="go">Go!</string>
+    <string name="play_again">Play again</string>
+    <string name="gameOver">Done!</string>
+    <string name="correctAnswer">Correct!</string>
+    <string name="wrongAnswer">Wrong :/</string>
+</resources>
